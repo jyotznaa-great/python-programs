@@ -1,1 +1,3 @@
 aleesa|jyo|2026
+python programming|aleesa|2003
+Data Structure|katy|2001
